@@ -35,7 +35,7 @@ This platform is a Single Page Application (SPA) that includes a wide range of f
 This project is built with foundational web technologies and relies entirely on client-side logic.
 
 * **Front-End:** HTML5, CSS3, JavaScript (ES6)
-* **Data Storage:** Browser `localStorage` is used to persist all user, item, and notification data. **No database or backend is required.**
+* **Data Storage:** Browser localStorage is used to persist all user, item, and notification data. **No database or backend is required.**
 * **Icons:** Font Awesome for a clean and modern user interface.
 
 ---
@@ -44,8 +44,8 @@ This project is built with foundational web technologies and relies entirely on 
 
 To access the Admin Dashboard and its features, log in with the following credentials:
 
-* **Email:** `admin@gmail.com`
-* **Password:** `123456`
+* **Email:** admin@gmail.com
+* **Password:** 123456
 
 ---
 
